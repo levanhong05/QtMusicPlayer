@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>screens/ChartScreen.qml</file>
+        <file>screens/HomeScreen.qml</file>
+        <file>screens/NotificationScreen.qml</file>
+        <file>screens/TopicScreen.qml</file>
+        <file>screens/VideoScreen.qml</file>
+        <file>launchbar/BottomNavigationBar.qml</file>
+        <file>launchbar/BottomNavigationButton.qml</file>
+        <file>scripts/branding.js</file>
+        <file>scripts/global.js</file>
+        <file>scripts/setting.js</file>
+        <file>header/HeaderBar.qml</file>
+        <file>header/DividerItem.qml</file>
+        <file>header/NavigationBar.qml</file>
+        <file>header/NavigationButtonItem.qml</file>
+        <file>header/NavigationTextButtonItem.qml</file>
+    </qresource>
+</RCC>

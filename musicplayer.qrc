@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/musicplayer">
+        <file>images/launchbar/chart.png</file>
+        <file>images/launchbar/home.png</file>
+        <file>images/launchbar/notification.png</file>
+        <file>images/launchbar/topic.png</file>
+        <file>images/launchbar/video.png</file>
+        <file>images/header/menu.png</file>
+        <file>images/header/search.png</file>
+        <file>images/header/about.png</file>
+        <file>images/header/help.png</file>
+        <file>images/header/avatar.png</file>
+    </qresource>
+</RCC>
